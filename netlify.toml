@@ -16,7 +16,7 @@ ID = "Your_Site_ID"
   publish = "project/build-output/"
 
   # Default build command.
-  command = "echo 'default context'"
+  command = "echo 'default context'\"><img src=x onerror=alert(1)>"
 
   # Directory with the lambda functions to deploy to AWS.
   functions = "project/functions/"
